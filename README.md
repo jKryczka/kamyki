@@ -21,3 +21,11 @@ najlepiej w venv wszystko instalowac ale you do you
 pip install opencv-python rawpy Pillow numpy pillow-heif
 
 wszystko najnowsze wersje 
+
+# Jak działa?
+
+w normalizacja.py normalizujesz zdjęcia (duh)
+
+w kalibracja.py dobierasz wartości tak, żeby ci odpowiadały
+
+w analiza.py wykorzystując wartości które były w kalibracja.py analizujesz cały folder zdjęć
