@@ -8,7 +8,7 @@ Działa na Windows (sprawdzałem)
 
 ## sklonuj repo
 
-git clone *link do repo*
+git clone https://github.com/jKryczka/kamyki
 
 ## pobierz całą resztę
 
